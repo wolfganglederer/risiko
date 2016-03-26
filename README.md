@@ -8,5 +8,5 @@ After some simulations done in julia it is obvious, that the attacker is slightl
 
 # References
 
-Osborne, Jason A.. 2003. “Markov Chains for the RISK Board Game Revisited”. Mathematics Magazine *76* (2). **Mathematical Association of America**: 129–35. doi:10.2307/3219306.
+Osborne, Jason A.. 2003. “Markov Chains for the RISK Board Game Revisited”. Mathematics Magazine **76** (2). *Mathematical Association of America*: 129–35. doi:10.2307/3219306.
 
