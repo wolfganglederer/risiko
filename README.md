@@ -2,9 +2,7 @@
 
 Among some friends the question arose who is favoured the attacker or the defender.
 
-After some simulations done in julia it is obvious, that the attacker is slightly favoured to win.
-
-
+After some simulations done in julia it is obvious, that the attacker is favoured to win when both have the same number of armies and the the number of armies is larger than five for each.
 
 # References
 
